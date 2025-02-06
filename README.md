@@ -1,5 +1,5 @@
 <h1>Projeto Easy Shopping com responsividade</h1>
-<p>Projeto de página inicial produzido através das aulas com o professor Rodrigo Mori do curso<br>
+<p>Projeto de página inicial produzido através das aulas com o professor Rodolfo Mori do curso<br>
 <a href="https://rodolfomori.com.br/devclub-comercial/">
   <img src="https://files.curseduca.com/d9ab31c9-4410-4407-92cd-5723bde8194f/4a006790620c5986cdb7914adf0cafe3a4172291.webp" width="200px"></a></p>
 <br>
